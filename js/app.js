@@ -2,7 +2,7 @@ const myDoc = document;
 
 let myLi = myDoc.getElementById("elemento");
 
-const cant_elements = 9;
+const cant_elements = 8;
 
 const elemento = myLi.innerHTML; 
 
